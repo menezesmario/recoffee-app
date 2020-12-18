@@ -10,7 +10,7 @@ function App() {
           </div>
           <div>
               <a href="/cart">Cart</a>
-              <a href="/signin">Sign In tste</a>
+              <a href="/signin">Sign In</a>
           </div>
       </header>
       <main>
