@@ -7,7 +7,7 @@ const data = {
             image:'/images/cafe1.png',
             price: 22,
             brand: '3 Corações',
-            rating: 3.8,
+            rating: 4.5,
             numReviews: 12,
             description: 'Café especial cultivado por indígenas',
             productor: 'Zé Guarani',
